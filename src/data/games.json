@@ -1,0 +1,617 @@
+[
+  {
+    "id": "black-myth-wukong",
+    "title": "黑神话：悟空",
+    "titleEn": "Black Myth: Wukong",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "动作角色扮演",
+      "动作",
+      "冒险"
+    ],
+    "releaseDate": "2024-08-20",
+    "rating": 9.4,
+    "publisher": "游戏科学",
+    "description": "《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位「天命人」，为了探寻昔日传奇英雄的真相，穿越壮丽而危险的西游世界。游戏以其极高的视觉水准、流畅的战斗系统和忠于原著的东方美学赢得了全球玩家的赞誉。",
+    "cover": "https://picsum.photos/seed/wukong/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门指南",
+        "icon": "BookOpen",
+        "content": "## 新手入门指南\n\n### 基础操作\n\n《黑神话：悟空》的战斗系统融合了轻重攻击、法术、变身和闪避格挡。入门阶段建议先熟悉以下核心机制：\n\n**轻攻击连击**：连续按轻攻击可打出流畅的连招，是主要输出手段。\n**重攻击蓄力**：长按重攻击可蓄力打出强力一击，破防效果极佳。\n**闪避**：精准闪避可触发「识破」效果，短暂减慢时间并反击。\n**法术系统**：游戏提供多种法术，如定身术、分身术、铜头铁臂等。\n\n### 加点推荐\n\n前期建议优先加点「体魄」提升生存能力，其次是「气力」增加耐力条。"
+      },
+      {
+        "id": "boss",
+        "title": "全BOSS攻略",
+        "icon": "Swords",
+        "content": "## 全BOSS攻略\n\n### 幽魂（新手劝退BOSS）\n这个BOSS以高伤害和快节奏攻击著称。打法要点：\n1. 保持中距离引它出招\n2. 它出拳后有一个明显的后摇，趁机输出2-3下\n3. 注意躲开它的地面重击\n4. 第二阶段狂暴时优先保命\n\n### 二郎神（最终BOSS）\n游戏最难战斗之一，分为三个阶段：\n- 第一阶段：近战压制\n- 第二阶段：召唤天兵天将\n- 第三阶段：法天象地形态"
+      }
+    ],
+    "tags": [
+      "西游",
+      "神话",
+      "动作",
+      "高难度",
+      "国产3A"
+    ],
+    "isHot": true,
+    "isNew": true
+  },
+  {
+    "id": "elden-ring",
+    "title": "艾尔登法环",
+    "titleEn": "Elden Ring",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "动作角色扮演",
+      "开放世界",
+      "魂系"
+    ],
+    "releaseDate": "2022-02-25",
+    "rating": 9.5,
+    "publisher": "FromSoftware / Bandai Namco",
+    "description": "《艾尔登法环》是由宫崎英高监制、乔治·R·R·马丁参与世界观构建的开放世界魂系动作RPG。游戏以其浩瀚的世界地图、深邃的剧情叙事和极具挑战性的战斗系统成为游戏史上的里程碑之作。",
+    "cover": "https://picsum.photos/seed/eldenring/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门指南",
+        "icon": "BookOpen",
+        "content": "## 新手入门指南\n\n### 开局职业选择\n**推荐新手职业**：\n- **流浪骑士**：高血量高防御，容错率最高\n- **武士**：初始武器强力，远程近战兼备\n- **观星者**：远程法师流\n\n### 前期必做事项\n1. 到「关卡前方」赐福点后立刻去逛宁姆格福南部\n2. 优先升到20级，全加血量\n3. 找到「猎犬长牙」或「名刀月隐」"
+      },
+      {
+        "id": "walkthrough",
+        "title": "全流程攻略",
+        "icon": "Map",
+        "content": "## 全流程攻略\n\n### 宁姆格福\n初始区域，建议先清理南部半岛的摩恩城。\n\n### 史东薇尔城\n主线第一个大型地牢。噩兆是第一个难关。\n\n### 湖之利耶尼亚\n以魔法学院为中心，满月女王BOSS战。\n\n### 王城罗德尔\n游戏中期核心区域。恶兆王是必须要过的关卡。"
+      },
+      {
+        "id": "builds",
+        "title": "强力Build推荐",
+        "icon": "Wrench",
+        "content": "## 强力Build推荐\n\n### 名刀月隐·法师流\n- **主属性**：智力 > 灵巧 > 血量\n- **武器**：名刀月隐 + 卡利亚权杖\n- **法术**：岩石球、彗星亚兹勒\n\n### 猎犬长牙·敏捷流\n- **主属性**：灵巧 > 血量 > 耐力\n- **武器**：猎犬长牙（双持）\n- **打法**：战技位移极大，利用无敌帧穿模攻击"
+      }
+    ],
+    "tags": [
+      "魂系",
+      "高难度",
+      "开放世界",
+      "宫崎英高",
+      "年度最佳"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "genshin-impact",
+    "title": "原神",
+    "titleEn": "Genshin Impact",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "iOS",
+      "Android"
+    ],
+    "category": "mobile",
+    "subCategory": [
+      "角色扮演",
+      "开放世界",
+      "动作"
+    ],
+    "releaseDate": "2020-09-28",
+    "rating": 9.0,
+    "publisher": "米哈游",
+    "description": "《原神》是一款开放世界冒险RPG，玩家将扮演「旅行者」在名为提瓦特的幻想世界中探索。游戏以其精美的二次元美术风格、七元素反应战斗系统和持续更新的庞大内容获得了全球范围内现象级的成功。",
+    "cover": "https://picsum.photos/seed/genshin/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手完全指南",
+        "icon": "BookOpen",
+        "content": "## 新手完全指南\n\n### 开局路线\n1. 跟着主线走，解锁蒙德城\n2. 冒险等级到16级解锁多人模式\n3. 20级前不要碰圣遗物本\n4. 每天记得做每日委托和消耗树脂\n\n### 原石规划\n- 月卡党每月可获得约12000原石\n- 零氪党每月约8000原石\n- 建议只抽限定UP池"
+      },
+      {
+        "id": "characters",
+        "title": "角色培养推荐",
+        "icon": "Users",
+        "content": "## 角色培养推荐\n\n### T0 必练角色\n- **纳西妲**：草系核心\n- **芙宁娜**：增伤天花板\n- **班尼特**：四星真神\n- **行秋**：挂水频率最高\n\n### T1 顶级角色\n- **雷电将军**：充能核心+爆发输出\n- **夜兰**：大世界跑图+高伤害\n- **万叶**：聚怪+增伤"
+      },
+      {
+        "id": "teams",
+        "title": "配队思路",
+        "icon": "Swords",
+        "content": "## 配队思路\n\n### 种门（草种子队）\n纳西妲 + 行秋/夜兰 + 久岐忍/雷电将军\n\n### 永冻队\n绫华/甘雨 + 心海/莫娜 + 万叶/温迪\n\n### 雷国队\n雷电将军 + 行秋 + 香菱 + 班尼特\n\n### 蒸发队\n胡桃/绫人 + 夜兰/行秋 + 钟离"
+      }
+    ],
+    "tags": [
+      "米哈游",
+      "开放世界",
+      "二次元",
+      "免费游戏",
+      "抽卡"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "博德之门3",
+    "titleEn": "Baldur's Gate 3",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "角色扮演",
+      "策略",
+      "冒险"
+    ],
+    "releaseDate": "2023-08-03",
+    "rating": 9.6,
+    "publisher": "Larian Studios",
+    "description": "《博德之门3》是基于D&D 5e规则打造的CRPG巅峰之作。游戏以其极高的自由度、扎实的回合制战斗和电影级的叙事体验定义了新时代的角色扮演游戏标准。",
+    "cover": "https://picsum.photos/seed/baldurs3/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门指南",
+        "icon": "BookOpen",
+        "content": "## 新手入门指南\n\n### 职业选择\n**新手推荐**：\n- **战士**：最简单直接的职业\n- **游侠**：有远程有宠物\n- **邪术师**：魅力主属性\n\n### 核心机制\n- **动作+附赠动作+移动**：每回合资源配置\n- **优势/劣势**：占据高地=优势\n- **长休/短休**：恢复资源\n- **激励点**：用于重投骰子"
+      },
+      {
+        "id": "builds",
+        "title": "强力Build推荐",
+        "icon": "Wrench",
+        "content": "## 强力Build推荐\n\n### 圣骑士/邪术师复合\n- **职业**：圣骑士5级+邪术师5级+战士2级\n- **核心**：重击叠加至圣斩\n\n### 散打僧\n- **职业**：武僧9级+游荡者3级\n- **核心**：附赠动作多，徒手伤害高"
+      }
+    ],
+    "tags": [
+      "D&D",
+      "CRPG",
+      "回合制",
+      "自由度高",
+      "年度最佳"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "zelda-totk",
+    "title": "塞尔达传说：王国之泪",
+    "titleEn": "The Legend of Zelda: Tears of the Kingdom",
+    "platforms": [
+      "NSwitch"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "动作",
+      "冒险",
+      "开放世界"
+    ],
+    "releaseDate": "2023-05-12",
+    "rating": 9.6,
+    "publisher": "任天堂",
+    "description": "《塞尔达传说：王国之泪》是旷野之息的直接续作，在原有海拉鲁大陆的基础上加入了天空岛屿和地下深渊两个全新维度。",
+    "cover": "https://picsum.photos/seed/zelda/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门指南",
+        "icon": "BookOpen",
+        "content": "## 新手入门指南\n\n### 新能力介绍\n- **究极手**：粘合/拆分物体\n- **余料建造**：材料粘到武器上\n- **通天术**：向上穿透天花板\n- **倒转乾坤**：逆转时间\n\n### 开局路线\n1. 跟着主线到海拉鲁城堡\n2. 优先解锁地图塔\n3. 找魔犹伊的遗失物扩充背包"
+      },
+      {
+        "id": "builds",
+        "title": "强力创造推荐",
+        "icon": "Wrench",
+        "content": "## 究极手创造物推荐\n\n### 飞天摩托\n- 2个风扇机+1个操纵杆\n- 最实用交通工具\n\n### 自动追踪炮台\n- 构造头+大炮+翼\n- 自动瞄准敌人\n\n### 打桩机\n- 弹簧+石板+扎针"
+      }
+    ],
+    "tags": [
+      "任天堂",
+      "开放世界",
+      "塞尔达",
+      "解谜",
+      "GOTY"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "honkai-star-rail",
+    "title": "崩坏：星穹铁道",
+    "titleEn": "Honkai: Star Rail",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "PS5"
+    ],
+    "category": "mobile",
+    "subCategory": [
+      "角色扮演",
+      "策略",
+      "回合制"
+    ],
+    "releaseDate": "2023-04-26",
+    "rating": 8.9,
+    "publisher": "米哈游",
+    "description": "《崩坏：星穹铁道》是米哈游推出的回合制科幻RPG。玩家将乘坐星穹列车穿越银河，在各个风格迥异的星球上展开冒险。",
+    "cover": "https://picsum.photos/seed/starrail/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "开荒指南",
+        "icon": "BookOpen",
+        "content": "## 开荒指南\n\n### 体力规划\n- 前期：刷花萼（经验书和信用点）\n- 中期：刷拟造花萼（行迹材料）\n- 后期：刷侵蚀隧洞（遗器）\n\n### 角色推荐\n- **开局首选布洛妮娅**：人权辅助\n- **四星战神**：停云、佩拉"
+      },
+      {
+        "id": "teams",
+        "title": "配队推荐",
+        "icon": "Users",
+        "content": "## 配队推荐\n\n### 量子队\n希儿+布洛妮娅+银狼+符玄\n\n### DOT队\n卡芙卡+桂乃芬+艾丝妲+罗刹\n\n### 追击队\n托帕+克拉拉+三月七"
+      }
+    ],
+    "tags": [
+      "米哈游",
+      "回合制",
+      "科幻",
+      "银河",
+      "抽卡"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "honor-of-kings",
+    "title": "王者荣耀",
+    "titleEn": "Honor of Kings",
+    "platforms": [
+      "iOS",
+      "Android"
+    ],
+    "category": "mobile",
+    "subCategory": [
+      "MOBA",
+      "竞技"
+    ],
+    "releaseDate": "2015-11-26",
+    "rating": 8.5,
+    "publisher": "腾讯天美",
+    "description": "《王者荣耀》是全球最受欢迎的MOBA手游之一。游戏以5v5对战为核心，融合了中国历史和神话角色。",
+    "cover": "https://picsum.photos/seed/kingglory/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门",
+        "icon": "BookOpen",
+        "content": "## 新手入门\n\n### 位置选择\n- **对抗路**：战士/坦克为主\n- **中路**：法师\n- **发育路**：射手\n- **打野**：游走gank\n- **游走**：辅助\n\n### 新手推荐英雄\n亚瑟、安琪拉、后羿、赵云、蔡文姬"
+      }
+    ],
+    "tags": [
+      "腾讯",
+      "MOBA",
+      "电竞",
+      "5v5",
+      "手游"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "zenless-zone-zero",
+    "title": "绝区零",
+    "titleEn": "Zenless Zone Zero",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android",
+      "PS5"
+    ],
+    "category": "mobile",
+    "subCategory": [
+      "动作",
+      "角色扮演",
+      "都市"
+    ],
+    "releaseDate": "2024-07-04",
+    "rating": 8.6,
+    "publisher": "米哈游",
+    "description": "《绝区零》是米哈游的全新都市幻想动作RPG。游戏以独特的潮流美术风格、爽快的即时战斗系统和丰富的探索玩法为特色。",
+    "cover": "https://picsum.photos/seed/zzzero/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门",
+        "icon": "BookOpen",
+        "content": "## 新手入门\n\n### 基础战斗\n- 普攻积能量，重击消耗能量\n- 支援角色QTE触发切换\n- 失衡值打满触发连携攻击\n\n### 角色推荐\n- **T0**：艾莲、朱鸢\n- **四星战神**：比利、安比"
+      }
+    ],
+    "tags": [
+      "米哈游",
+      "动作",
+      "都市",
+      "潮流",
+      "新作"
+    ],
+    "isHot": true,
+    "isNew": true
+  },
+  {
+    "id": "sanguosha",
+    "title": "三国杀",
+    "titleEn": "Sanguosha",
+    "platforms": [
+      "Board",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "category": "boardgame",
+    "subCategory": [
+      "卡牌",
+      "策略",
+      "桌游"
+    ],
+    "releaseDate": "2008-01-01",
+    "rating": 8.0,
+    "publisher": "游卡桌游",
+    "description": "《三国杀》是中国最具影响力的原创桌游之一，以三国时期为背景的身份策略卡牌游戏。",
+    "cover": "https://picsum.photos/seed/sanguosha/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门",
+        "icon": "BookOpen",
+        "content": "## 新手入门\n\n### 身份局规则\n- **主公**：消灭所有反贼和内奸\n- **忠臣**：保护主公\n- **反贼**：击杀主公\n- **内奸**：消灭所有人后单挑\n\n### 新手武将推荐\n曹操、刘备、孙权、张飞、赵云"
+      }
+    ],
+    "tags": [
+      "卡牌",
+      "三国",
+      "身份局",
+      "策略",
+      "国风"
+    ],
+    "isHot": false,
+    "isNew": false
+  },
+  {
+    "id": "league-of-legends",
+    "title": "英雄联盟",
+    "titleEn": "League of Legends",
+    "platforms": [
+      "PC"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "MOBA",
+      "竞技",
+      "策略"
+    ],
+    "releaseDate": "2009-10-27",
+    "rating": 8.8,
+    "publisher": "Riot Games / 腾讯",
+    "description": "《英雄联盟》是全球最具影响力的MOBA游戏，拥有超过160位英雄和成熟的赛事体系。",
+    "cover": "https://picsum.photos/seed/lol/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门",
+        "icon": "BookOpen",
+        "content": "## 新手入门\n\n### 位置简介\n- **上单**：战士/坦克\n- **打野**：游走gank\n- **中单**：法师/刺客\n- **ADC**：远程核心输出\n- **辅助**：保护ADC\n\n### 新手英雄推荐\n盖伦、安妮、艾希、阿木木、索拉卡"
+      }
+    ],
+    "tags": [
+      "Riot",
+      "MOBA",
+      "电竞",
+      "腾讯",
+      "经典"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "chinese-paladin",
+    "title": "仙剑奇侠传",
+    "titleEn": "Chinese Paladin",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "category": "classic",
+    "subCategory": [
+      "角色扮演",
+      "冒险",
+      "剧情"
+    ],
+    "releaseDate": "1995-07-07",
+    "rating": 9.4,
+    "publisher": "大宇资讯",
+    "description": "《仙剑奇侠传》是中国游戏史上最具里程碑意义的角色扮演游戏之一。宿命感人的剧情和经典的角色形象使其成为一代玩家的共同记忆。",
+    "cover": "https://picsum.photos/seed/paladin/400/560",
+    "guides": [
+      {
+        "id": "walkthrough",
+        "title": "完整剧情攻略",
+        "icon": "Map",
+        "content": "## 完整剧情攻略\n\n### 第一章：蜀山之约\n李逍遥在客栈初遇赵灵儿。\n\n### 第二章：白河村\n帮助灵儿寻母，遇到林月如。\n\n### 第三章：锁妖塔\n游戏高潮，锁妖塔内的真相令人心碎。"
+      }
+    ],
+    "tags": [
+      "大宇",
+      "经典RPG",
+      "仙侠",
+      "国风",
+      "DOS"
+    ],
+    "isHot": false,
+    "isNew": false
+  },
+  {
+    "id": "red-alert-2",
+    "title": "红色警戒2",
+    "titleEn": "Command & Conquer: Red Alert 2",
+    "platforms": [
+      "PC"
+    ],
+    "category": "classic",
+    "subCategory": [
+      "策略",
+      "即时战略",
+      "科幻"
+    ],
+    "releaseDate": "2000-10-23",
+    "rating": 9.2,
+    "publisher": "Westwood / EA",
+    "description": "《红色警戒2》是RTS黄金时代的代表作品，盟军与苏联两大阵营各具特色的兵种和单位使其成为无数玩家的RTS启蒙之作。",
+    "cover": "https://picsum.photos/seed/redalert/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "基础教学",
+        "icon": "BookOpen",
+        "content": "## 基础教学\n\n### 阵营选择\n**盟军**：高科技空军，飞行兵、光棱坦克\n**苏联**：重型陆军，天启坦克、基洛夫空艇\n\n### 基本运营\n- 矿车采金是经济基础\n- 电力要保证充足\n- 侦查很重要，派狗探路"
+      }
+    ],
+    "tags": [
+      "Westwood",
+      "RTS",
+      "EA",
+      "冷战",
+      "即时战略"
+    ],
+    "isHot": false,
+    "isNew": false
+  },
+  {
+    "id": "world-of-warcraft",
+    "title": "魔兽世界",
+    "titleEn": "World of Warcraft",
+    "platforms": [
+      "PC"
+    ],
+    "category": "classic",
+    "subCategory": [
+      "角色扮演",
+      "MMORPG",
+      "开放世界"
+    ],
+    "releaseDate": "2004-11-23",
+    "rating": 9.3,
+    "publisher": "Blizzard Entertainment",
+    "description": "《魔兽世界》是MMORPG领域的绝对霸主。艾泽拉斯世界经历了十数个资料片的扩展，依然保持着极高的生命力。",
+    "cover": "https://picsum.photos/seed/worldwarcraft/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入坑指南",
+        "icon": "BookOpen",
+        "content": "## 新手入坑指南\n\n### 版本选择\n- **正式服**：最新版本\n- **怀旧服**：重温经典\n- **硬核服**：一命模式\n\n### 新手推荐职业\n- 猎人（最简单）\n- 圣骑士（能打能奶能抗）\n- 恶魔术士（solo强）"
+      }
+    ],
+    "tags": [
+      "暴雪",
+      "MMO",
+      "艾泽拉斯",
+      "团本",
+      "经典"
+    ],
+    "isHot": false,
+    "isNew": false
+  },
+  {
+    "id": "naraka-bladepoint",
+    "title": "永劫无间",
+    "titleEn": "Naraka: Bladepoint",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "iOS",
+      "Android"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "动作",
+      "大逃杀",
+      "竞技"
+    ],
+    "releaseDate": "2021-08-12",
+    "rating": 8.6,
+    "publisher": "网易 24 Entertainment",
+    "description": "《永劫无间》是一款以冷兵器格斗为核心的武侠风大逃杀游戏。飞索系统和振刀机制让每一场战斗都充满了操作感。",
+    "cover": "https://picsum.photos/seed/naraka/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门",
+        "icon": "BookOpen",
+        "content": "## 新手入门\n\n### 核心机制\n- **普通攻击→霸体攻击→振刀→循环克制\n- **飞索**：自由位移系统\n\n### 英雄推荐\n- **宁红夜**：控制型\n- **天海**：坦克型\n- **迦南**：回复型"
+      }
+    ],
+    "tags": [
+      "网易",
+      "武侠",
+      "大逃杀",
+      "冷兵器",
+      "竞技"
+    ],
+    "isHot": true,
+    "isNew": false
+  },
+  {
+    "id": "where-winds-meet",
+    "title": "燕云十六声",
+    "titleEn": "Where Winds Meet",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "category": "pc",
+    "subCategory": [
+      "动作角色扮演",
+      "开放世界",
+      "武侠"
+    ],
+    "releaseDate": "2024-08-28",
+    "rating": 8.5,
+    "publisher": "网易 Everstone Games",
+    "description": "《燕云十六声》是一款以五代十国为背景的开放世界武侠动作RPG，以「无门派」的自由武学体系和高自由度探索为特色。",
+    "cover": "https://picsum.photos/seed/windmeet/400/560",
+    "guides": [
+      {
+        "id": "beginner",
+        "title": "新手入门",
+        "icon": "BookOpen",
+        "content": "## 新手入门\n\n### 开局指南\n1. 跟着主线推进解锁更多区域\n2. 留意地图上的「奇遇」标记\n3. 武学系统可以自由切换\n\n### 战斗系统\n- 轻/重攻击组合\n- 武学技能槽自由搭配\n- 易武系统：切换武器流派"
+      }
+    ],
+    "tags": [
+      "网易",
+      "武侠",
+      "开放世界",
+      "国风",
+      "新作"
+    ],
+    "isHot": false,
+    "isNew": true
+  }
+]

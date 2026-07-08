@@ -1,0 +1,22 @@
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag {
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--gradient-glow);
+  color: var(--text-secondary);
+  font-size: var(--text-xs);
+  border: 1px solid rgba(233, 69, 96, 0.15);
+  transition: var(--transition-fast);
+}
+
+.tag:hover {
+  border-color: var(--accent-primary);
+  color: var(--text-primary);
+}
+
+.md .tag { padding: 4px 10px; font-size: var(--text-sm); }
