@@ -29,6 +29,14 @@ export default function Footer() {
         </div>
         <div className={styles.bottom}>
           <span>&copy; 2026 {SITE_NAME}. All rights reserved.</span>
+          <a
+            href="https://beian.miit.gov.cn/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.recordLink}
+          >
+            浙ICP备2026054006号-1
+          </a>
         </div>
       </div>
     </footer>

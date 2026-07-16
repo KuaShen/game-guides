@@ -67,7 +67,22 @@
   font-size: var(--text-xs);
 }
 
+.recordLink {
+  margin-left: var(--space-md);
+  color: var(--text-muted);
+  transition: var(--transition-fast);
+}
+
+.recordLink:hover {
+  color: var(--text-primary);
+}
+
 @media (max-width: 768px) {
   .grid { grid-template-columns: 1fr; }
   .brand { max-width: 100%; }
+
+  .recordLink {
+    display: block;
+    margin: var(--space-sm) 0 0;
+  }
 }
